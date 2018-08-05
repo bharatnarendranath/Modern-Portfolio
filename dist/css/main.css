@@ -48,7 +48,7 @@ header {
   width: 100; }
 
 .text-secondary {
-  color: #ccac40; }
+  color: #008080; }
 
 main {
   padding: 4rem;
@@ -56,9 +56,9 @@ main {
   main .icons {
     margin-top: 1rem; }
     main .icons a {
-      padding: 0.4rem; }
+      padding: 0.8rem; }
       main .icons a:hover {
-        color: #ccac40;
+        color: #008080;
         transition: all 1.0s ease-out; }
   main#home {
     overflow: hidden; }
